@@ -1,0 +1,17 @@
+{
+  "type": "VariableDeclaration",
+  "declarations": [
+    {
+      "type": "VariableDeclarator",
+      "id": {
+        "type": "Identifier",
+        "name": "x"
+      },
+      "init": {
+        "type": "NumericLiteral",
+        "value": 3
+      }
+    }
+  ],
+  "kind": "const"
+}
